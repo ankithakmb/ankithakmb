@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello I'm using Whatsapp 👋
 
 I am a student at the Univeristy of Bern, studying MSc Bioinformatics and Computational Biology
 
