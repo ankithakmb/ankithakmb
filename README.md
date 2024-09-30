@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 👋
+
+I am a student at the Univeristy of Bern, studying MSc Bioinformatics and Computational Biology
 
 <!--
 **ankithakmb/ankithakmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
